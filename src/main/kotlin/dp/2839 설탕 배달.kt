@@ -1,4 +1,4 @@
-package dp.kotlin.dp
+package dp
 
 import java.io.*
 import kotlin.math.min
